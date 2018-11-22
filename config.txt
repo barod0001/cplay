@@ -1,0 +1,7 @@
+?token= NDgwNTA4Nzc0Nzc2MzA3NzEy.DtetDA.QmdNelFX0CPhbNxeAgcO6GW-Mn0
+owner= 490803489765720064
+prefix= b
+game= bhelp
+stayinchannel=true  false
+songinstatus=false  true
+token=NDgwNTA4Nzc0Nzc2MzA3NzEy.DtetDA.QmdNelFX0CPhbNxeAgcO6GW-Mn0
