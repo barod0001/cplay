@@ -1,7 +1,6 @@
-?token= NDgwNTA4Nzc0Nzc2MzA3NzEy.DtetDA.QmdNelFX0CPhbNxeAgcO6GW-Mn0
+token=NTE1MDI3MzE5NDIxNzk2MzYy.DtfIKA.WRJ6n40d5or8XHtgfCMMw54Sgmk
 owner= 490803489765720064
-prefix= b
-game= bhelp
+prefix=1play
+game= 1play
 stayinchannel=true  false
 songinstatus=false  true
-token=NDgwNTA4Nzc0Nzc2MzA3NzEy.DtetDA.QmdNelFX0CPhbNxeAgcO6GW-Mn0
